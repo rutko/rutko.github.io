@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{"v/02":function(e,t,n){"use strict";n.r(t),n.d(t,"default",(function(){return u}));var a=n("q1tI"),l=n.n(a),r=n("Wbzz"),c=n("L12J");function u(){return l.a.createElement(c.a,null,l.a.createElement("product",null,l.a.createElement("h3",null,l.a.createElement(r.a,{to:"https://www.lolvc.org/"},"LoLVC")),l.a.createElement("h5",null,"- League of Legendsのフレンド募集掲示板 -"),l.a.createElement("p",null,"Rails / JavaScript")))}}}]);
+//# sourceMappingURL=component---src-pages-products-jsx-3dfd669b20d6fb9e4237.js.map
